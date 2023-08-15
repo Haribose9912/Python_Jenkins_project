@@ -1,0 +1,316 @@
+2023-07-23 18:02:30,943 :INFO : WDM :====== WebDriver manager ======
+2023-07-23 18:02:31,291 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-07-23 18:02:31,736 :INFO : WDM :About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_win32.zip
+2023-07-23 18:02:32,780 :INFO : WDM :Driver has been saved in cache [C:\Users\Harish kumar\.wdm\drivers\chromedriver\win32\114.0.5735.90]
+2023-07-23 18:02:34,182 :INFO : root :****Initializing zomato_main page****
+2023-07-23 18:02:34,183 :INFO : root :********Opening Zomato URL*****
+2023-07-23 18:02:37,403 :INFO : root :********Verifying page title*****
+2023-07-23 18:02:37,417 :INFO : root :********Page title is success*****
+2023-07-23 18:02:37,417 :INFO : root :****Getting all the mobile numbers from the businesses started****
+2023-07-23 18:02:37,417 :INFO : root :****filter has been selected****
+2023-07-23 18:02:37,556 :INFO : root :****Initializing zomato_product_page****
+2023-07-23 18:02:48,641 :INFO : root :****closing the browser****
+2023-07-23 18:03:17,765 :INFO : WDM :====== WebDriver manager ======
+2023-07-23 18:03:18,144 :INFO : WDM :Driver [C:\Users\Harish kumar\.wdm\drivers\chromedriver\win32\114.0.5735.90\chromedriver.exe] found in cache
+2023-07-23 18:03:19,853 :INFO : root :****Initializing zomato_main page****
+2023-07-23 18:03:19,853 :INFO : root :********Opening Zomato URL*****
+2023-07-23 18:03:22,900 :INFO : root :********Verifying page title*****
+2023-07-23 18:03:22,959 :INFO : root :********Page title is success*****
+2023-07-23 18:03:22,959 :INFO : root :****Getting all the mobile numbers from the businesses started****
+2023-07-23 18:03:22,959 :INFO : root :****filter has been selected****
+2023-07-23 18:03:23,154 :INFO : root :****Initializing zomato_product_page****
+2023-07-23 18:03:34,220 :INFO : root :****closing the browser****
+2023-07-23 18:07:03,861 :INFO : WDM :====== WebDriver manager ======
+2023-07-23 18:07:04,203 :INFO : WDM :Driver [C:\Users\Harish kumar\.wdm\drivers\chromedriver\win32\114.0.5735.90\chromedriver.exe] found in cache
+2023-07-23 18:07:05,456 :INFO : root :****Initializing zomato_main page****
+2023-07-23 18:07:05,458 :INFO : root :********Opening Zomato URL*****
+2023-07-23 18:07:08,621 :INFO : root :********Verifying page title*****
+2023-07-23 18:07:08,629 :INFO : root :********Page title is success*****
+2023-07-23 18:07:08,629 :INFO : root :****Getting all the mobile numbers from the businesses started****
+2023-07-23 18:07:08,629 :INFO : root :****filter has been selected****
+2023-07-23 18:07:08,791 :INFO : root :****Initializing zomato_product_page****
+2023-07-23 18:07:19,908 :INFO : root :****closing the browser****
+2023-07-23 18:08:30,299 :INFO : WDM :====== WebDriver manager ======
+2023-07-23 18:08:30,631 :INFO : WDM :Driver [C:\Users\Harish kumar\.wdm\drivers\chromedriver\win32\114.0.5735.90\chromedriver.exe] found in cache
+2023-07-23 18:08:31,908 :INFO : root :****Initializing zomato_main page****
+2023-07-23 18:08:31,909 :INFO : root :********Opening Zomato URL*****
+2023-07-23 18:08:35,653 :INFO : root :********Verifying page title*****
+2023-07-23 18:08:35,854 :INFO : root :********Page title is success*****
+2023-07-23 18:08:35,856 :INFO : root :****Getting all the mobile numbers from the businesses started****
+2023-07-23 18:08:35,858 :INFO : root :****filter has been selected****
+2023-07-23 18:08:36,023 :INFO : root :****Initializing zomato_product_page****
+2023-07-23 18:08:47,110 :INFO : root :****closing the browser****
+2023-08-06 20:00:46,221 :INFO : WDM :====== WebDriver manager ======
+2023-08-06 20:00:47,455 :INFO : WDM :There is no [win32] chromedriver "latest" for browser google-chrome "115.0.5790" in cache
+2023-08-06 20:00:47,455 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-08-06 20:00:48,821 :INFO : WDM :====== WebDriver manager ======
+2023-08-06 20:00:49,603 :INFO : WDM :There is no [win32] chromedriver "latest" for browser google-chrome "115.0.5790" in cache
+2023-08-06 20:00:49,603 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-08-06 20:00:49,956 :INFO : WDM :====== WebDriver manager ======
+2023-08-06 20:00:50,732 :INFO : WDM :There is no [win32] chromedriver "latest" for browser google-chrome "115.0.5790" in cache
+2023-08-06 20:00:50,732 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-08-06 20:01:24,877 :INFO : WDM :====== WebDriver manager ======
+2023-08-06 20:01:25,382 :INFO : WDM :There is no [win32] chromedriver "latest" for browser google-chrome "115.0.5790" in cache
+2023-08-06 20:01:25,382 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-08-06 20:01:26,355 :INFO : WDM :====== WebDriver manager ======
+2023-08-06 20:01:27,096 :INFO : WDM :There is no [win32] chromedriver "latest" for browser google-chrome "115.0.5790" in cache
+2023-08-06 20:01:27,096 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-08-06 20:01:27,446 :INFO : WDM :====== WebDriver manager ======
+2023-08-06 20:01:28,149 :INFO : WDM :There is no [win32] chromedriver "latest" for browser google-chrome "115.0.5790" in cache
+2023-08-06 20:01:28,149 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-08-06 20:01:41,584 :INFO : WDM :====== WebDriver manager ======
+2023-08-06 20:01:42,138 :INFO : WDM :There is no [win64] edgedriver "latest" for browser edge "115.0.1901" in cache
+2023-08-06 20:01:42,138 :INFO : WDM :Get LATEST edgedriver version for Edge 115.0.1901
+2023-08-06 20:01:42,421 :INFO : WDM :About to download new driver from https://msedgedriver.azureedge.net/115.0.1901.188/edgedriver_win64.zip
+2023-08-06 20:01:43,529 :INFO : WDM :Driver has been saved in cache [C:\Users\Harish kumar\.wdm\drivers\edgedriver\win64\115.0.1901.188]
+2023-08-06 20:01:46,413 :INFO : root :****Verifying home page title****
+2023-08-06 20:01:46,435 :INFO : root :****Home page titile passed****
+2023-08-06 20:01:49,601 :INFO : WDM :====== WebDriver manager ======
+2023-08-06 20:01:50,377 :INFO : WDM :Driver [C:\Users\Harish kumar\.wdm\drivers\edgedriver\win64\115.0.1901.188\msedgedriver.exe] found in cache
+2023-08-06 20:02:07,896 :INFO : WDM :====== WebDriver manager ======
+2023-08-06 20:02:08,672 :INFO : WDM :Driver [C:\Users\Harish kumar\.wdm\drivers\edgedriver\win64\115.0.1901.188\msedgedriver.exe] found in cache
+2023-08-06 20:05:35,762 :INFO : WDM :====== WebDriver manager ======
+2023-08-06 20:05:36,253 :INFO : WDM :There is no [win32] chromedriver "latest" for browser google-chrome "115.0.5790" in cache
+2023-08-06 20:05:36,253 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-08-06 20:05:36,925 :INFO : WDM :====== WebDriver manager ======
+2023-08-06 20:05:37,637 :INFO : WDM :There is no [win32] chromedriver "latest" for browser google-chrome "115.0.5790" in cache
+2023-08-06 20:05:37,637 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-08-06 20:05:38,012 :INFO : WDM :====== WebDriver manager ======
+2023-08-06 20:05:38,762 :INFO : WDM :There is no [win32] chromedriver "latest" for browser google-chrome "115.0.5790" in cache
+2023-08-06 20:05:38,762 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-08-06 20:06:59,473 :INFO : WDM :====== WebDriver manager ======
+2023-08-06 20:07:00,233 :INFO : WDM :There is no [win32] chromedriver "latest" for browser google-chrome "115.0.5790" in cache
+2023-08-06 20:07:00,233 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-08-06 20:07:01,138 :INFO : WDM :====== WebDriver manager ======
+2023-08-06 20:07:01,902 :INFO : WDM :There is no [win32] chromedriver "latest" for browser google-chrome "115.0.5790" in cache
+2023-08-06 20:07:01,902 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-08-06 20:07:02,348 :INFO : WDM :====== WebDriver manager ======
+2023-08-06 20:07:03,073 :INFO : WDM :There is no [win32] chromedriver "latest" for browser google-chrome "115.0.5790" in cache
+2023-08-06 20:07:03,073 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-08-06 20:09:54,809 :INFO : WDM :====== WebDriver manager ======
+2023-08-06 20:09:55,298 :INFO : WDM :There is no [win32] chromedriver "latest" for browser google-chrome "115.0.5790" in cache
+2023-08-06 20:09:55,299 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-08-06 20:09:55,952 :INFO : WDM :====== WebDriver manager ======
+2023-08-06 20:09:56,673 :INFO : WDM :There is no [win32] chromedriver "latest" for browser google-chrome "115.0.5790" in cache
+2023-08-06 20:09:56,673 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-08-06 20:09:57,041 :INFO : WDM :====== WebDriver manager ======
+2023-08-06 20:09:57,751 :INFO : WDM :There is no [win32] chromedriver "latest" for browser google-chrome "115.0.5790" in cache
+2023-08-06 20:09:57,751 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-08-06 20:17:22,210 :INFO : WDM :====== WebDriver manager ======
+2023-08-06 20:17:23,175 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-08-06 20:17:23,175 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-08-06 20:17:23,175 :INFO : WDM :There is no [win64] chromedriver "115.0.5790.171" for browser google-chrome "115.0.5790.171" in cache
+2023-08-06 20:17:23,175 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-08-06 20:17:23,396 :INFO : WDM :WebDriver version 115.0.5790.170 selected
+2023-08-06 20:17:23,396 :INFO : WDM :Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+2023-08-06 20:17:23,396 :INFO : WDM :About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+2023-08-06 20:17:23,620 :INFO : WDM :Driver downloading response is 200
+2023-08-06 20:17:24,149 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-08-06 20:17:24,302 :INFO : WDM :Driver has been saved in cache [C:\Users\Harish kumar\.wdm\drivers\chromedriver\win64\115.0.5790.171]
+2023-08-06 20:17:29,815 :INFO : root :****Verifying home page title****
+2023-08-06 20:17:29,832 :INFO : root :****Home page titile passed****
+2023-08-06 20:17:33,113 :INFO : WDM :====== WebDriver manager ======
+2023-08-06 20:17:34,817 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-08-06 20:17:34,817 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-08-06 20:17:34,817 :INFO : WDM :There is no [win64] chromedriver "115.0.5790.171" for browser google-chrome "115.0.5790.171" in cache
+2023-08-06 20:17:34,817 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-08-06 20:17:34,933 :INFO : WDM :WebDriver version 115.0.5790.170 selected
+2023-08-06 20:17:34,933 :INFO : WDM :Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+2023-08-06 20:17:34,933 :INFO : WDM :About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+2023-08-06 20:17:35,142 :INFO : WDM :Driver downloading response is 200
+2023-08-06 20:17:35,752 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-08-06 20:17:35,902 :INFO : WDM :Driver has been saved in cache [C:\Users\Harish kumar\.wdm\drivers\chromedriver\win64\115.0.5790.171]
+2023-08-06 20:17:55,270 :INFO : WDM :====== WebDriver manager ======
+2023-08-06 20:17:56,786 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-08-06 20:17:56,786 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-08-06 20:17:56,786 :INFO : WDM :There is no [win64] chromedriver "115.0.5790.171" for browser google-chrome "115.0.5790.171" in cache
+2023-08-06 20:17:56,786 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-08-06 20:17:56,891 :INFO : WDM :WebDriver version 115.0.5790.170 selected
+2023-08-06 20:17:56,891 :INFO : WDM :Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+2023-08-06 20:17:56,891 :INFO : WDM :About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+2023-08-06 20:17:57,110 :INFO : WDM :Driver downloading response is 200
+2023-08-06 20:17:57,766 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-08-06 20:17:57,903 :INFO : WDM :Driver has been saved in cache [C:\Users\Harish kumar\.wdm\drivers\chromedriver\win64\115.0.5790.171]
+2023-08-06 20:19:03,014 :INFO : WDM :====== WebDriver manager ======
+2023-08-06 20:19:03,493 :INFO : WDM :There is no [win32] chromedriver "latest" for browser google-chrome "115.0.5790" in cache
+2023-08-06 20:19:03,493 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-08-06 20:19:04,310 :INFO : WDM :====== WebDriver manager ======
+2023-08-06 20:19:05,040 :INFO : WDM :There is no [win32] chromedriver "latest" for browser google-chrome "115.0.5790" in cache
+2023-08-06 20:19:05,040 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-08-06 20:19:05,645 :INFO : WDM :====== WebDriver manager ======
+2023-08-06 20:19:06,615 :INFO : WDM :There is no [win32] chromedriver "latest" for browser google-chrome "115.0.5790" in cache
+2023-08-06 20:19:06,615 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-08-06 20:28:14,210 :INFO : WDM :====== WebDriver manager ======
+2023-08-06 20:28:14,706 :INFO : WDM :There is no [win32] chromedriver "114.0.5735.16" for browser google-chrome "115.0.5790" in cache
+2023-08-06 20:28:14,706 :INFO : WDM :About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.16/chromedriver_win32.zip
+2023-08-06 20:28:15,821 :INFO : WDM :Driver has been saved in cache [C:\Users\Harish kumar\.wdm\drivers\chromedriver\win32\114.0.5735.16]
+2023-08-06 20:28:19,170 :INFO : root :****Verifying home page title****
+2023-08-06 20:28:19,179 :INFO : root :****Home page titile passed****
+2023-08-06 20:28:21,364 :INFO : WDM :====== WebDriver manager ======
+2023-08-06 20:28:22,477 :INFO : WDM :Driver [C:\Users\Harish kumar\.wdm\drivers\chromedriver\win32\114.0.5735.16\chromedriver.exe] found in cache
+2023-08-06 20:28:47,534 :INFO : WDM :====== WebDriver manager ======
+2023-08-06 20:28:48,280 :INFO : WDM :Driver [C:\Users\Harish kumar\.wdm\drivers\chromedriver\win32\114.0.5735.16\chromedriver.exe] found in cache
+2023-08-06 20:35:50,330 :INFO : WDM :====== WebDriver manager ======
+2023-08-06 20:35:50,836 :INFO : WDM :Driver [C:\Users\Harish kumar\.wdm\drivers\chromedriver\win32\114.0.5735.16\chromedriver.exe] found in cache
+2023-08-06 20:35:55,932 :INFO : root :****Verifying home page title****
+2023-08-06 20:35:55,942 :INFO : root :****Home page titile passed****
+2023-08-06 20:35:58,032 :INFO : WDM :====== WebDriver manager ======
+2023-08-06 20:35:58,776 :INFO : WDM :Driver [C:\Users\Harish kumar\.wdm\drivers\chromedriver\win32\114.0.5735.16\chromedriver.exe] found in cache
+2023-08-06 20:36:10,842 :INFO : WDM :====== WebDriver manager ======
+2023-08-06 20:36:11,607 :INFO : WDM :Driver [C:\Users\Harish kumar\.wdm\drivers\chromedriver\win32\114.0.5735.16\chromedriver.exe] found in cache
+2023-08-06 20:39:40,549 :INFO : WDM :====== WebDriver manager ======
+2023-08-06 20:39:41,039 :INFO : WDM :Driver [C:\Users\Harish kumar\.wdm\drivers\chromedriver\win32\114.0.5735.16\chromedriver.exe] found in cache
+2023-08-06 20:39:43,887 :INFO : root :****Verifying home page title****
+2023-08-06 20:39:43,902 :INFO : root :****Home page titile passed****
+2023-08-06 20:39:46,137 :INFO : WDM :====== WebDriver manager ======
+2023-08-06 20:39:46,947 :INFO : WDM :Driver [C:\Users\Harish kumar\.wdm\drivers\chromedriver\win32\114.0.5735.16\chromedriver.exe] found in cache
+2023-08-06 20:39:59,624 :INFO : WDM :====== WebDriver manager ======
+2023-08-06 20:40:00,550 :INFO : WDM :Driver [C:\Users\Harish kumar\.wdm\drivers\chromedriver\win32\114.0.5735.16\chromedriver.exe] found in cache
+2023-08-06 20:46:36,795 :INFO : WDM :====== WebDriver manager ======
+2023-08-06 20:46:37,347 :INFO : WDM :Driver [C:\Users\Harish kumar\.wdm\drivers\chromedriver\win32\114.0.5735.16\chromedriver.exe] found in cache
+2023-08-06 20:46:41,138 :INFO : root :****Verifying home page title****
+2023-08-06 20:46:41,150 :INFO : root :****Home page titile passed****
+2023-08-06 20:46:43,355 :INFO : WDM :====== WebDriver manager ======
+2023-08-06 20:46:44,058 :INFO : WDM :Driver [C:\Users\Harish kumar\.wdm\drivers\chromedriver\win32\114.0.5735.16\chromedriver.exe] found in cache
+2023-08-06 20:46:57,787 :INFO : WDM :====== WebDriver manager ======
+2023-08-06 20:46:58,956 :INFO : WDM :Driver [C:\Users\Harish kumar\.wdm\drivers\chromedriver\win32\114.0.5735.16\chromedriver.exe] found in cache
+2023-08-06 20:50:38,256 :INFO : WDM :====== WebDriver manager ======
+2023-08-06 20:50:38,860 :INFO : WDM :Driver [C:\Users\Harish kumar\.wdm\drivers\edgedriver\win64\115.0.1901.188\msedgedriver.exe] found in cache
+2023-08-06 20:50:45,132 :INFO : WDM :====== WebDriver manager ======
+2023-08-06 20:50:45,847 :INFO : WDM :Driver [C:\Users\Harish kumar\.wdm\drivers\edgedriver\win64\115.0.1901.188\msedgedriver.exe] found in cache
+2023-08-06 20:50:48,439 :INFO : WDM :====== WebDriver manager ======
+2023-08-06 20:50:49,008 :INFO : WDM :Driver [C:\Users\Harish kumar\.wdm\drivers\edgedriver\win64\115.0.1901.188\msedgedriver.exe] found in cache
+2023-08-06 20:52:23,590 :INFO : WDM :====== WebDriver manager ======
+2023-08-06 20:52:24,168 :INFO : WDM :Driver [C:\Users\Harish kumar\.wdm\drivers\edgedriver\win64\115.0.1901.188\msedgedriver.exe] found in cache
+2023-08-06 20:52:26,325 :INFO : root :****Verifying home page title****
+2023-08-06 20:52:26,355 :INFO : root :****Home page titile passed****
+2023-08-06 20:52:28,870 :INFO : WDM :====== WebDriver manager ======
+2023-08-06 20:52:29,617 :INFO : WDM :Driver [C:\Users\Harish kumar\.wdm\drivers\edgedriver\win64\115.0.1901.188\msedgedriver.exe] found in cache
+2023-08-06 20:52:47,695 :INFO : WDM :====== WebDriver manager ======
+2023-08-06 20:52:48,508 :INFO : WDM :Driver [C:\Users\Harish kumar\.wdm\drivers\edgedriver\win64\115.0.1901.188\msedgedriver.exe] found in cache
+2023-08-06 20:55:06,743 :INFO : WDM :====== WebDriver manager ======
+2023-08-06 20:55:07,323 :INFO : WDM :Driver [C:\Users\Harish kumar\.wdm\drivers\edgedriver\win64\115.0.1901.188\msedgedriver.exe] found in cache
+2023-08-06 20:55:10,218 :INFO : WDM :====== WebDriver manager ======
+2023-08-06 20:55:11,043 :INFO : WDM :Driver [C:\Users\Harish kumar\.wdm\drivers\edgedriver\win64\115.0.1901.188\msedgedriver.exe] found in cache
+2023-08-06 20:55:13,679 :INFO : WDM :====== WebDriver manager ======
+2023-08-06 20:55:14,442 :INFO : WDM :Driver [C:\Users\Harish kumar\.wdm\drivers\edgedriver\win64\115.0.1901.188\msedgedriver.exe] found in cache
+2023-08-06 20:58:16,813 :INFO : WDM :====== WebDriver manager ======
+2023-08-06 20:58:17,398 :INFO : WDM :There is no [win32] chromedriver "latest" for browser google-chrome "115.0.5790" in cache
+2023-08-06 20:58:17,398 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-08-06 20:58:19,730 :INFO : WDM :====== WebDriver manager ======
+2023-08-06 20:58:20,502 :INFO : WDM :There is no [win32] chromedriver "latest" for browser google-chrome "115.0.5790" in cache
+2023-08-06 20:58:20,502 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-08-06 20:58:22,302 :INFO : WDM :====== WebDriver manager ======
+2023-08-06 20:58:23,168 :INFO : WDM :There is no [win32] chromedriver "latest" for browser google-chrome "115.0.5790" in cache
+2023-08-06 20:58:23,169 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-08-06 20:58:54,820 :INFO : WDM :====== WebDriver manager ======
+2023-08-06 20:58:55,405 :INFO : WDM :Driver [C:\Users\Harish kumar\.wdm\drivers\chromedriver\win32\114.0.5735.16\chromedriver.exe] found in cache
+2023-08-06 20:58:58,959 :INFO : root :****Verifying home page title****
+2023-08-06 20:58:58,977 :INFO : root :****Home page titile passed****
+2023-08-06 20:59:01,216 :INFO : WDM :====== WebDriver manager ======
+2023-08-06 20:59:02,065 :INFO : WDM :Driver [C:\Users\Harish kumar\.wdm\drivers\chromedriver\win32\114.0.5735.16\chromedriver.exe] found in cache
+2023-08-06 20:59:16,839 :INFO : WDM :====== WebDriver manager ======
+2023-08-06 20:59:17,647 :INFO : WDM :Driver [C:\Users\Harish kumar\.wdm\drivers\chromedriver\win32\114.0.5735.16\chromedriver.exe] found in cache
+2023-08-13 13:10:12,733 :INFO : WDM :====== WebDriver manager ======
+2023-08-13 13:10:15,048 :INFO : WDM :About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.16/chromedriver_win32.zip
+2023-08-13 13:10:17,752 :INFO : WDM :Driver has been saved in cache [C:\Users\Harish kumar\.wdm\drivers\chromedriver\win32\114.0.5735.16]
+2023-08-13 13:10:22,741 :INFO : root :****Verifying home page title****
+2023-08-13 13:10:22,750 :INFO : root :****Home page titile passed****
+2023-08-13 13:10:24,947 :INFO : WDM :====== WebDriver manager ======
+2023-08-13 13:10:27,173 :INFO : WDM :Driver [C:\Users\Harish kumar\.wdm\drivers\chromedriver\win32\114.0.5735.16\chromedriver.exe] found in cache
+2023-08-13 13:10:40,094 :INFO : WDM :====== WebDriver manager ======
+2023-08-13 13:10:42,267 :INFO : WDM :Driver [C:\Users\Harish kumar\.wdm\drivers\chromedriver\win32\114.0.5735.16\chromedriver.exe] found in cache
+2023-08-13 13:12:08,146 :INFO : WDM :====== WebDriver manager ======
+2023-08-13 13:12:09,795 :INFO : WDM :Driver [C:\Users\Harish kumar\.wdm\drivers\chromedriver\win32\114.0.5735.16\chromedriver.exe] found in cache
+2023-08-13 13:12:14,997 :INFO : root :****Verifying home page title****
+2023-08-13 13:12:14,997 :INFO : root :****Home page titile passed****
+2023-08-13 13:12:17,108 :INFO : WDM :====== WebDriver manager ======
+2023-08-13 13:12:19,170 :INFO : WDM :Driver [C:\Users\Harish kumar\.wdm\drivers\chromedriver\win32\114.0.5735.16\chromedriver.exe] found in cache
+2023-08-13 13:12:31,189 :INFO : WDM :====== WebDriver manager ======
+2023-08-13 13:12:33,375 :INFO : WDM :Driver [C:\Users\Harish kumar\.wdm\drivers\chromedriver\win32\114.0.5735.16\chromedriver.exe] found in cache
+2023-08-14 23:18:33,661 :INFO : WDM :====== WebDriver manager ======
+2023-08-14 23:18:34,025 :INFO : WDM :There is no [win32] chromedriver "latest" for browser google-chrome "115.0.5790" in cache
+2023-08-14 23:18:34,025 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-08-14 23:18:36,850 :INFO : WDM :====== WebDriver manager ======
+2023-08-14 23:18:37,330 :INFO : WDM :There is no [win32] chromedriver "latest" for browser google-chrome "115.0.5790" in cache
+2023-08-14 23:18:37,330 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-08-14 23:18:39,743 :INFO : WDM :====== WebDriver manager ======
+2023-08-14 23:18:40,096 :INFO : WDM :There is no [win32] chromedriver "latest" for browser google-chrome "115.0.5790" in cache
+2023-08-14 23:18:40,096 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-08-14 23:18:59,415 :INFO : WDM :====== WebDriver manager ======
+2023-08-14 23:18:59,752 :INFO : WDM :Driver [C:\Users\Harish kumar\.wdm\drivers\chromedriver\win32\114.0.5735.16\chromedriver.exe] found in cache
+2023-08-14 23:19:04,655 :INFO : root :****Verifying home page title****
+2023-08-14 23:19:08,842 :INFO : WDM :====== WebDriver manager ======
+2023-08-14 23:19:09,375 :INFO : WDM :Driver [C:\Users\Harish kumar\.wdm\drivers\chromedriver\win32\114.0.5735.16\chromedriver.exe] found in cache
+2023-08-14 23:19:11,456 :INFO : root :****Verifying home page title****
+2023-08-14 23:19:15,550 :INFO : WDM :====== WebDriver manager ======
+2023-08-14 23:19:16,084 :INFO : WDM :Driver [C:\Users\Harish kumar\.wdm\drivers\chromedriver\win32\114.0.5735.16\chromedriver.exe] found in cache
+2023-08-14 23:19:18,587 :INFO : root :****Verifying home page title****
+2023-08-15 13:43:35,459 :INFO : WDM :====== WebDriver manager ======
+2023-08-15 13:43:36,394 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-08-15 13:43:36,395 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-08-15 13:43:36,395 :INFO : WDM :There is no [win64] chromedriver "115.0.5790.171" for browser google-chrome "115.0.5790.171" in cache
+2023-08-15 13:43:36,395 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-08-15 13:43:36,855 :INFO : WDM :WebDriver version 115.0.5790.170 selected
+2023-08-15 13:43:36,857 :INFO : WDM :Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+2023-08-15 13:43:36,857 :INFO : WDM :About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+2023-08-15 13:43:37,198 :INFO : WDM :Driver downloading response is 200
+2023-08-15 13:43:37,701 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-08-15 13:43:37,801 :INFO : WDM :Driver has been saved in cache [C:\Users\Harish kumar\.wdm\drivers\chromedriver\win64\115.0.5790.171]
+2023-08-15 13:43:41,277 :INFO : root :****Verifying home page title****
+2023-08-15 13:43:43,536 :INFO : WDM :====== WebDriver manager ======
+2023-08-15 13:43:44,589 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-08-15 13:43:44,590 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-08-15 13:43:44,590 :INFO : WDM :There is no [win64] chromedriver "115.0.5790.171" for browser google-chrome "115.0.5790.171" in cache
+2023-08-15 13:43:44,590 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-08-15 13:43:45,002 :INFO : WDM :WebDriver version 115.0.5790.170 selected
+2023-08-15 13:43:45,005 :INFO : WDM :Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+2023-08-15 13:43:45,005 :INFO : WDM :About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+2023-08-15 13:43:45,241 :INFO : WDM :Driver downloading response is 200
+2023-08-15 13:43:45,799 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-08-15 13:43:45,893 :INFO : WDM :Driver has been saved in cache [C:\Users\Harish kumar\.wdm\drivers\chromedriver\win64\115.0.5790.171]
+2023-08-15 13:43:57,711 :INFO : WDM :====== WebDriver manager ======
+2023-08-15 13:43:58,858 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-08-15 13:43:58,859 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-08-15 13:43:58,859 :INFO : WDM :There is no [win64] chromedriver "115.0.5790.171" for browser google-chrome "115.0.5790.171" in cache
+2023-08-15 13:43:58,859 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-08-15 13:43:58,985 :INFO : WDM :WebDriver version 115.0.5790.170 selected
+2023-08-15 13:43:58,989 :INFO : WDM :Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+2023-08-15 13:43:58,989 :INFO : WDM :About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+2023-08-15 13:43:59,331 :INFO : WDM :Driver downloading response is 200
+2023-08-15 13:43:59,929 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-08-15 13:44:00,167 :INFO : WDM :Driver has been saved in cache [C:\Users\Harish kumar\.wdm\drivers\chromedriver\win64\115.0.5790.171]
+2023-08-15 13:47:31,607 :INFO : WDM :====== WebDriver manager ======
+2023-08-15 13:47:32,529 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-08-15 13:47:32,529 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-08-15 13:47:32,529 :INFO : WDM :There is no [win64] chromedriver "115.0.5790.171" for browser google-chrome "115.0.5790.171" in cache
+2023-08-15 13:47:32,530 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-08-15 13:47:32,653 :INFO : WDM :WebDriver version 115.0.5790.170 selected
+2023-08-15 13:47:32,656 :INFO : WDM :Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+2023-08-15 13:47:32,656 :INFO : WDM :About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+2023-08-15 13:47:32,965 :INFO : WDM :Driver downloading response is 200
+2023-08-15 13:47:33,647 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-08-15 13:47:33,750 :INFO : WDM :Driver has been saved in cache [C:\Users\Harish kumar\.wdm\drivers\chromedriver\win64\115.0.5790.171]
+2023-08-15 13:47:38,453 :INFO : root :****Verifying home page title****
+2023-08-15 13:47:40,746 :INFO : WDM :====== WebDriver manager ======
+2023-08-15 13:47:42,046 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-08-15 13:47:42,048 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-08-15 13:47:42,049 :INFO : WDM :There is no [win64] chromedriver "115.0.5790.171" for browser google-chrome "115.0.5790.171" in cache
+2023-08-15 13:47:42,049 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-08-15 13:47:42,173 :INFO : WDM :WebDriver version 115.0.5790.170 selected
+2023-08-15 13:47:42,178 :INFO : WDM :Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+2023-08-15 13:47:42,179 :INFO : WDM :About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+2023-08-15 13:47:42,362 :INFO : WDM :Driver downloading response is 200
+2023-08-15 13:47:43,114 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-08-15 13:47:43,350 :INFO : WDM :Driver has been saved in cache [C:\Users\Harish kumar\.wdm\drivers\chromedriver\win64\115.0.5790.171]
+2023-08-15 13:47:55,381 :INFO : WDM :====== WebDriver manager ======
+2023-08-15 13:47:56,699 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-08-15 13:47:56,700 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-08-15 13:47:56,701 :INFO : WDM :There is no [win64] chromedriver "115.0.5790.171" for browser google-chrome "115.0.5790.171" in cache
+2023-08-15 13:47:56,701 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-08-15 13:47:56,841 :INFO : WDM :WebDriver version 115.0.5790.170 selected
+2023-08-15 13:47:56,846 :INFO : WDM :Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+2023-08-15 13:47:56,846 :INFO : WDM :About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+2023-08-15 13:47:57,065 :INFO : WDM :Driver downloading response is 200
+2023-08-15 13:47:57,547 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-08-15 13:47:57,801 :INFO : WDM :Driver has been saved in cache [C:\Users\Harish kumar\.wdm\drivers\chromedriver\win64\115.0.5790.171]
