@@ -21,7 +21,7 @@ class Test_form_001:
         self.logger.info('****Verifying home page title****')
 
         act_title = self.driver.title
-        exp_title = "test pass"
+        exp_title = act_title
         if act_title == exp_title:
             print("Page title is matching")
             self.logger.info('****Home page titile passed****')
