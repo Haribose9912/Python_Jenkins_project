@@ -22,7 +22,7 @@ def setup(request, browser):
     opt.add_argument('--ignore-certificate-errors')
     # def setup():
     if browser == 'chrome':
-        driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()), options=ssl_cert)
+        driver = webdriver.Chrome(ChromeDriverManager(version="114.0.5735.16").install(), options=ssl_cert)
         print("Launching Chrome browser")
     elif browser == 'edge':
         driver = webdriver.Edge(EdgeChromiumDriverManager().install(), options=ssl_cert)
