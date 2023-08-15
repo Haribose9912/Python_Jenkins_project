@@ -1,12 +1,12 @@
 import time
 import pytest
-from pytest_html_reporter.plugin import screenshot
+# from pytest_html_reporter.plugin import screenshot
 from selenium import webdriver
 from Utilities.customLogger import configure_logger
 from Pageobjects.Formfillpage import Formfill
 # from ddt import ddt, data, file_data, unpack
 from Utilities.base_driver import basedriver
-from pytest_html_reporter import attach
+# from pytest_html_reporter import attach
 
 
 @pytest.mark.usefixtures("setup")
@@ -36,7 +36,6 @@ class Test_form_001:
             print("Page title is not matching")
             self.driver.save_screenshot(".\\Screenshots\\" + "homePage_title_fail.png")
             # base.screenshot()
-            self.screenshot_on_failure()
             self.logger.warn('******Home page title is failed********')
             self.driver.close()
             assert False
@@ -56,8 +55,8 @@ class Test_form_001:
         base.screenshot()
         time.sleep(5)
 
-    def screenshot_on_failure(self):
-        for self._testMethodName, error in self._outcome.errors:
-            if error:
-                attach(data=screenshot, name="screenshot.png", attachment_type="image/png")
+    # def screenshot_on_failure(self):
+    #     for self._testMethodName, error in self._outcome.errors:
+    #         if error:
+    #             attach(data=screenshot, name="screenshot.png", attachment_type="image/png")
 ########### end of the code ############
