@@ -11,6 +11,7 @@ from Utilities.base_driver import basedriver
 class Test_form_001:
     logger = configure_logger()
 
+
     @pytest.fixture(autouse=True)
     def class_setup(self):
         self.ff = Formfill(self.driver)
@@ -18,32 +19,37 @@ class Test_form_001:
 
     # @pytest.mark.flaky(reruns=2, reruns_delay=2)
     def test_page_title(self):
+        base = basedriver(self.driver)
         self.logger.info('****Verifying home page title****')
 
         act_title = self.driver.title
         exp_title = act_title
         if act_title == exp_title:
             print("Page title is matching")
-            basedriver.screenshot()
+            self.driver.save_screenshot(".\\Screenshots\\" + "homePage_title_Pass.png")
             self.logger.info('****Home page titile passed****')
             self.driver.close()
             assert True
         else:
             print("Page title is not matching")
-            # self.driver.save_screenshot(".\\Screenshots\\" + "test_homePage_title.png")
-            basedriver.screenshot()
+            self.driver.save_screenshot(".\\Screenshots\\" + "homePage_title_fail.png")
+            # base.screenshot()
             self.logger.warn('******Home page title is failed********')
             self.driver.close()
             assert False
 
     def test_form_fill(self):
+        base = basedriver(self.driver)
 
         self.ff.full_form_fill("hariesh", "kumar", "hari@gmail.com", "040-9944996", "plot.no.94/p,subashnagar",
                                "hyderabad", "50055", "www.google.com", "testingworldnewapproach")
+        base.screenshot()
         time.sleep(2)
 
     def test_form_fill2(self):
+        base = basedriver(self.driver)
         self.ff.full_form_fill("ravana", "kumara", "ravana@gmail.com", "040-9944996", "plot.no.94/p,subashnagar",
                                "malesiya", "50055", "www.ravana.com", "testingworldnewapproach")
+        base.screenshot()
         time.sleep(5)
 ########### end of the code ############

@@ -29,7 +29,6 @@ class basedriver:
     ###################### screenshot setup ########################
 
     def screenshot(self):
-        self.driver.save_screenshot(".\\Screenshots\\" + "test_homePage_title.png")
-
+        self.driver.save_screenshot(".\\Screenshots\\" + "Test.png")
 
 
