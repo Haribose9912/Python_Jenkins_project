@@ -24,6 +24,7 @@ class Test_form_001:
         exp_title = act_title
         if act_title == exp_title:
             print("Page title is matching")
+            basedriver.screenshot()
             self.logger.info('****Home page titile passed****')
             self.driver.close()
             assert True
