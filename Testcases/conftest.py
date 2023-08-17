@@ -32,7 +32,7 @@ def setup(request, browser):
         driver = webdriver.Firefox(service=FirefoxService(GeckoDriverManager().install()))
         print("Launching Firefox browser")
     elif browser == 'headless':
-        driver = webdriver.Chrome(ChromeDriverManager(version="114.0.5735.16").install(), options=opt)
+        driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()), options=opt)
         print("Launching Headless browser")
     else:
         driver = webdriver.Chrome(ChromeDriverManager(version="114.0.5735.16").install(), options=ssl_cert)
