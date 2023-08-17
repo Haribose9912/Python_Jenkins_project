@@ -8,7 +8,8 @@ from webdriver_manager.microsoft import EdgeChromiumDriverManager
 from selenium.webdriver.firefox.service import Service as FirefoxService
 from webdriver_manager.firefox import GeckoDriverManager
 from selenium.webdriver.chrome.options import Options
-
+#   IF DRIVER FAILS TO OPEN BROWSER REFER THIS SITE
+# https://stackoverflow.com/questions/76762892/chromedriver-version-115-not-found
 
 @pytest.fixture(autouse=True)
 # @pytest.fixture()
@@ -67,3 +68,6 @@ def browser(request):  # this will return the browser value to setup method
 # def pytest_metadata(metadata):
 #     metadata.pop("JAVA_HOME", None)
 #     metadata.pop("Plugins", None)
+
+
+
