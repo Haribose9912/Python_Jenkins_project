@@ -35,7 +35,8 @@ def setup(request, browser):
         driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()), options=opt)
         print("Launching Headless browser")
     else:
-        driver = webdriver.Chrome(ChromeDriverManager(version="114.0.5735.16").install(), options=ssl_cert)
+        # driver = webdriver.Chrome(ChromeDriverManager(version="116.0.5845.97").install(), options=ssl_cert)
+        driver = webdriver.Chrome(ChromeDriverManager().install())
         print("Launching Default browser")
     driver.maximize_window()
     driver.implicitly_wait(5)
