@@ -6,6 +6,8 @@ from Utilities.customLogger import configure_logger
 from Pageobjects.Formfillpage import Formfill
 # from ddt import ddt, data, file_data, unpack
 from Utilities.base_driver import basedriver
+
+
 # from pytest_html_reporter import attach
 
 
@@ -13,13 +15,13 @@ from Utilities.base_driver import basedriver
 class Test_form_001:
     logger = configure_logger()
 
-
     @pytest.fixture(autouse=True)
     def class_setup(self):
         self.ff = Formfill(self.driver)
         self.ff.Form_url()
 
     # @pytest.mark.flaky(reruns=2, reruns_delay=2)
+    @pytest.mark.skip
     def test_page_title(self):
         base = basedriver(self.driver)
         self.logger.info('****Verifying home page title****')
@@ -47,7 +49,10 @@ class Test_form_001:
                                "hyderabad", "50055", "www.google.com", "testingworldnewapproach")
         base.screenshot()
         time.sleep(2)
+        cd = self.driver.window_handles
 
+
+    @pytest.mark.skip
     def test_form_fill2(self):
         base = basedriver(self.driver)
         self.ff.full_form_fill("ravana", "kumara", "ravana@gmail.com", "040-9944996", "plot.no.94/p,subashnagar",

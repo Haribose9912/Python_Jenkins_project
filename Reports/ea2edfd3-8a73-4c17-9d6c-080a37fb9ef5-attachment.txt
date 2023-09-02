@@ -1,0 +1,13 @@
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 There is no [win64] chromedriver "116.0.5845.111" for browser google-chrome "116.0.5845.111" in cache
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 WebDriver version 116.0.5845.96 selected
+[32mINFO    [0m WDM:logger.py:11 Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+[32mINFO    [0m WDM:logger.py:11 About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+[32mINFO    [0m WDM:logger.py:11 Driver downloading response is 200
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Driver has been saved in cache [C:\Users\Harish kumar\.wdm\drivers\chromedriver\win64\116.0.5845.111]
+[32mINFO    [0m root:Formfilltest.py:25 ****Verifying home page title****
+[32mINFO    [0m root:Formfilltest.py:32 ****Home page titile passed****
