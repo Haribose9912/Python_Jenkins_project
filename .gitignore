@@ -4,3 +4,6 @@
 *.json
 *.json
 *.txt
+output.json
+*.html
+*.pyc

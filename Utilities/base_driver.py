@@ -31,4 +31,7 @@ class basedriver:
     def screenshot(self):
         self.driver.save_screenshot(".\\Screenshots\\" + "Test.png")
 
+    def custom_screenshot(self, ImageName):
+        self.driver.save_screenshot(".\\Screenshots\\" + ImageName)
+
 
