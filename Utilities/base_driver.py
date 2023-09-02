@@ -1,3 +1,5 @@
+import allure
+from allure_commons.types import AttachmentType
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.wait import WebDriverWait
 
@@ -34,4 +36,7 @@ class basedriver:
     def custom_screenshot(self, ImageName):
         self.driver.save_screenshot(".\\Screenshots\\" + ImageName)
 
+    def allure_screenshot(self, imagename):
+        allure.attach(self.driver.get_screenshot_as_png(), name=imagename,
+                      attachment_type=AttachmentType.PNG)
 

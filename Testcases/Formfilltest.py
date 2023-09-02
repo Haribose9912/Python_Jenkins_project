@@ -1,4 +1,6 @@
 import time
+
+import allure
 import pytest
 # from pytest_html_reporter.plugin import screenshot
 from selenium.webdriver import Keys
@@ -14,7 +16,7 @@ from Utilities.base_driver import basedriver
 
 # from pytest_html_reporter import attach
 
-
+@allure.severity(allure.severity_level.NORMAL)
 @pytest.mark.usefixtures("setup")
 class Test_form_001:
     logger = configure_logger()
@@ -25,6 +27,7 @@ class Test_form_001:
         self.ff.Form_url()
 
     # @pytest.mark.flaky(reruns=2, reruns_delay=2)
+    @allure.severity(allure.severity_level.NORMAL)
     @pytest.mark.skip
     def test_page_title(self):
         base = basedriver(self.driver)
@@ -34,18 +37,21 @@ class Test_form_001:
         exp_title = act_title
         if act_title == exp_title:
             print("Page title is matching")
-            self.driver.save_screenshot(".\\Screenshots\\" + "homePage_title_Pass.png")
+            base.allure_screenshot("Homepage_title_pass.png")
+            # self.driver.save_screenshot(".\\Screenshots\\" + "homePage_title_Pass.png")
             self.logger.info('****Home page titile passed****')
             self.driver.close()
             assert True
         else:
             print("Page title is not matching")
-            self.driver.save_screenshot(".\\Screenshots\\" + "homePage_title_fail.png")
+            base.allure_screenshot("Homepage_title_fail.png")
+            # self.driver.save_screenshot(".\\Screenshots\\" + "homePage_title_fail.png")
             # base.screenshot()
             self.logger.warn('******Home page title is failed********')
             self.driver.close()
             assert False
 
+    @allure.severity(allure.severity_level.NORMAL)
     def test_form_fill(self):
         base = basedriver(self.driver)
         # initializing window handles
@@ -54,7 +60,8 @@ class Test_form_001:
         self.logger.info('**** Started form filling ****')
         self.ff.full_form_fill("hariesh", "kumar", "hari@gmail.com", "040-9944996", "plot.no.94/p,subashnagar",
                                "hyderabad", "50055", "www.google.com", "testingworldnewapproach")
-        base.screenshot()
+        # base.screenshot()
+        base.allure_screenshot("parent_window_page1.png")
         time.sleep(2)
         self.logger.info('**** Completed form filling ****')
         # cw = self.driver.window_handles
@@ -75,6 +82,7 @@ class Test_form_001:
         #         break
         # title = self.driver.title
         # wait.until(EC.title_is(title))
+        base.allure_screenshot("child_window_page1.png")
         self.logger.info(f'title of Child window is: {self.driver.title}')
         date = self.driver.find_element(By.LINK_TEXT, 'Date pickers')
         date.click()
@@ -82,7 +90,7 @@ class Test_form_001:
         date_picker = self.driver.find_element(By.XPATH, ele2)
         self.driver.execute_script("arguments[0].click();", date_picker)
         # print(self.driver.title)
-        base.custom_screenshot("Child_window.png")
+        base.allure_screenshot("child_window_page2.png")
         ele_select_date = self.driver.find_element(By.XPATH,
                                                    "//div[@id='sandbox-container1']//*[text()=' Select Date']")
         ele_select_date.text
@@ -92,16 +100,17 @@ class Test_form_001:
         # switching to parent window
         self.logger.info('**** switching to Parent window ****')
         self.driver.switch_to.window(parent)
+
         self.logger.info(f'title of parent window is: {self.driver.title}')
         # print(self.driver.title)
         btn_ele = self.driver.find_element(By.XPATH, "//*[text()='Send ']")
         btn_ele.text
-        base.custom_screenshot("Parent_window.png")
+        base.allure_screenshot("Parent_window_page2.png")
         # print(btn_ele.text)
         self.logger.info(f"Text of the button is: {btn_ele.text} ")
         self.logger.info('**** switching to child window ****')
         self.driver.switch_to.window(child)
-        base.custom_screenshot("child_window.png")
+        base.allure_screenshot("child_window_page3.png")
         self.logger.info(f'title of Child window is: {self.driver.title}')
         ele_date_input =self.driver.find_element(By.XPATH, "//input[@placeholder='dd/mm/yyyy']")
         ele_date_input.send_keys('15/07/1993')

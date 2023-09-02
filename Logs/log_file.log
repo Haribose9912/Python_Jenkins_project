@@ -569,3 +569,30 @@
 2023-09-02 19:11:29,850 :INFO : WDM :Driver downloading response is 200
 2023-09-02 19:11:30,415 :INFO : WDM :Get LATEST chromedriver version for google-chrome
 2023-09-02 19:11:30,509 :INFO : WDM :Driver has been saved in cache [C:\Users\Harish kumar\.wdm\drivers\chromedriver\win64\116.0.5845.111]
+2023-09-02 22:31:52,917 :INFO : WDM :====== WebDriver manager ======
+2023-09-02 22:31:53,617 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-09-02 22:31:53,622 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-09-02 22:31:53,622 :INFO : WDM :There is no [win64] chromedriver "116.0.5845.141" for browser google-chrome "116.0.5845.141" in cache
+2023-09-02 22:31:53,622 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-09-02 22:31:53,771 :INFO : WDM :WebDriver version 116.0.5845.96 selected
+2023-09-02 22:31:53,773 :INFO : WDM :Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+2023-09-02 22:31:53,773 :INFO : WDM :About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+2023-09-02 22:31:53,898 :INFO : WDM :Driver downloading response is 200
+2023-09-02 22:31:54,491 :INFO : WDM :Get LATEST chromedriver version for google-chrome
+2023-09-02 22:31:54,567 :INFO : WDM :Driver has been saved in cache [C:\Users\Harish kumar\.wdm\drivers\chromedriver\win64\116.0.5845.141]
+2023-09-02 22:31:56,975 :INFO : root :**** Started form filling ****
+2023-09-02 22:32:03,444 :INFO : root :**** Completed form filling ****
+2023-09-02 22:32:03,484 :INFO : root :**** switching to child window ****
+2023-09-02 22:32:03,487 :INFO : root :Number of windows 2 are available is True
+2023-09-02 22:32:04,334 :INFO : root :title of Child window is: Selenium Easy - Best Demo website to practice Selenium Webdriver Online
+2023-09-02 22:32:04,748 :INFO : root :Text of the date element is: Select Date
+2023-09-02 22:32:04,748 :INFO : root :**** switching to Parent window ****
+2023-09-02 22:32:04,779 :INFO : root :title of parent window is: Selenium Easy - Input Form Demo with Validations
+2023-09-02 22:32:04,921 :INFO : root :Text of the button is: Send 
+2023-09-02 22:32:04,921 :INFO : root :**** switching to child window ****
+2023-09-02 22:32:05,104 :INFO : root :title of Child window is: Selenium Easy - Best Demo website for Bootstrap Date picker
+2023-09-02 22:32:05,200 :INFO : root :Text present in the date input box: 
+2023-09-02 22:32:05,200 :INFO : root :*****Closing browser*****
+2023-09-02 22:32:11,410 :WARNING : urllib3.connectionpool :Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E6CA75FAF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/36fcccdf299cbaec44e4eb2e21f724a5
+2023-09-02 22:32:15,472 :WARNING : urllib3.connectionpool :Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E6CA75F490>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/36fcccdf299cbaec44e4eb2e21f724a5
+2023-09-02 22:32:19,582 :WARNING : urllib3.connectionpool :Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E6CA75F310>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/36fcccdf299cbaec44e4eb2e21f724a5
